@@ -1,0 +1,7 @@
+This is all the code and reports from the weekly labs I worked on in Math 156 - machine learning
+at UCLA, Spring 2016 quarter. All code is written in MATLAB to implement Machine Learning algos
+
+The Project folder contains the group project I worked on with 
+Dillon Zhi on Census Data; this folder is a carbon copy of our group repository found at:
+https://github.com/dzhi/bourgeoisie . The code on linear separability was found at a third party
+which is found at https://github.com/rishirdua/linear-separability-matlab
